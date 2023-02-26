@@ -19,6 +19,7 @@ function rangoCambio(){
         break
     }
 }
+//prueba de cambio github
 function despedir(){
 
     alert("Gracias por usar Exchange");
