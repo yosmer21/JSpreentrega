@@ -103,7 +103,7 @@ function mostrarMoneda (){
 
 }
 
-//menu de opciones en el exchange
+//menu de opciones en el exchange jjjjj
 
  let opciones = prompt("Ingrese la opcion de lo que desea hacer: \n 1: Cambiar moneda \n 2: Mostrar Moneda \n 3:Agregar Moneda \n 4: Saber que tipo de cliente soy \n 5: Salir" )
 
